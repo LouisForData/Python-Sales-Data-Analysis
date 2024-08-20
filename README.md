@@ -56,13 +56,13 @@ How to Use
     *[git clone https://github.com/LouisForData/sales-data-analysis.git](https://github.com/LouisForData/Python-Sales-Data-Analysis)*
     
     *cd sales-data-analysis*
-
-  2. Place your raw sales data (sales_data.csv) in the data/ folder.
-
-  3. Open the Jupyter notebook:
+    
+     2. Place your raw sales data (sales_data.csv) in the data/ folder.
+     3. Open the Jupyter notebook:
      
      *jupyter notebook notebooks/Python Sales Data Analysis.ipynb*
-  4. Run the analysis steps in the notebook to replicate the results.
+     
+     4. Run the analysis steps in the notebook to replicate the results.
 
 ### Results
 
