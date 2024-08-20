@@ -48,10 +48,9 @@ Install these dependencies by running:
     4. Conclusions
         Summarize insights and trends observed from the data.
 
-How to Use
-
+How to Use:
     
-    1. Clone the repository:
+      1. Clone the repository:
     
     *[git clone https://github.com/LouisForData/sales-data-analysis.git](https://github.com/LouisForData/Python-Sales-Data-Analysis)*
     
@@ -62,8 +61,6 @@ How to Use
      
      *jupyter notebook notebooks/Python Sales Data Analysis.ipynb*
      
-     4. Run the analysis steps in the notebook to replicate the results.
-
 ### Results
 
     Top Products: Identify the best-performing products based on sales volume and revenue.
