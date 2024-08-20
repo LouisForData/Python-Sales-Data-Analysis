@@ -50,11 +50,12 @@ Install these dependencies by running:
 
 How to Use
 
+    
     1. Clone the repository:
-
-*[git clone https://github.com/LouisForData/sales-data-analysis.git](https://github.com/LouisForData/Python-Sales-Data-Analysis)*
-
-*cd sales-data-analysis*
+    
+    *[git clone https://github.com/LouisForData/sales-data-analysis.git](https://github.com/LouisForData/Python-Sales-Data-Analysis)*
+    
+    *cd sales-data-analysis*
 
   2. Place your raw sales data (sales_data.csv) in the data/ folder.
 
